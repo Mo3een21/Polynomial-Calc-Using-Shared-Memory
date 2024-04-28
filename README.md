@@ -25,10 +25,10 @@ The extra functions for question 1 and 2 are the same, which are:
 --multiplication: does the multiplication operation and prints the resultant polynomial.
 
 ==Program Files==
-Ex3q1.c -- first question file
-Ex3q2a.c -- second question first project(write)
-Ex3q2b.c -- second question second project(read)
-Makefile
+Ex3q1.c -- first  file
+Ex3q2a.c -- second  fila a(write)
+Ex3q2b.c -- second  file b(read)
+
 
 
 
