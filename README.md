@@ -4,13 +4,13 @@ Polynomial Calculator
 Authored by Abu Katish Moeen
 
 ==Description==
-This homework has 3 question, in which I only chose to do the first 2.The first question is to do a polynomial calculator by any means necessary. It included 3 operations: multiplication, subtraction and addition.
-The second question is to do the polynomial calculator but by using the shared memory and semaphores.
-The first project contained the creation of the shared memory and getting the input from the user. The second project is getting the input from the shared memory and perfroming the operationss there.
+This project has 2 tasks.The first task is to do a polynomial calculator by any means necessary. It included 3 operations: multiplication, subtraction and addition.
+The second task is to do the polynomial calculator but by using the shared memory and semaphores.
+The first part contained the creation of the shared memory and getting the input from the user. The second part is getting the input from the shared memory and perfroming the operationss there.
 
 
 Functions:
-The extra functions for question 1 and 2 are the same, which are:
+The extra functions for tasks 1 and 2 are the same, which are:
 
 --check operation: a function that takes in a string as a parameter and check what is the operation that should be done by returning an enum.
 
@@ -25,9 +25,9 @@ The extra functions for question 1 and 2 are the same, which are:
 --multiplication: does the multiplication operation and prints the resultant polynomial.
 
 ==Program Files==
-Ex3q1.c -- first  file
-Ex3q2a.c -- second  fila a(write)
-Ex3q2b.c -- second  file b(read)
+Ex3q1.c -- first task
+Ex3q2a.c -- second task a(write)
+Ex3q2b.c -- second task b(read)
 
 
 
